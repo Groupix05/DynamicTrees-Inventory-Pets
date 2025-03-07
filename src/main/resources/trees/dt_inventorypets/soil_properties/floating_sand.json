@@ -1,0 +1,4 @@
+{
+  "primitive_soil": "inventorypets:sand_block",
+  "acceptable_soils": [ "sand_like" ]
+}

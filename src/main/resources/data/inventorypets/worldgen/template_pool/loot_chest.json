@@ -1,0 +1,15 @@
+{
+  "name": "inventorypets:loot_chest",
+  "fallback": "inventorypets:loot_chest",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "inventorypets:loot_chest",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "primitive_log": "minecraft:oak_log",
+    "primitive_stripped_log": "minecraft:stripped_oak_log",
+    "common_leaves": "dt_inventorypets:oak_birch",
+    "common_species": "dt_inventorypets:oak_birch",
+    "max_branch_radius": 8,
+    "conifer_variants": true
+}
