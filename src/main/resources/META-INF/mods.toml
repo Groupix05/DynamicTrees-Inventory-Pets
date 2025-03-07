@@ -1,13 +1,13 @@
 license="MIT"
 modLoader="javafml"
 loaderVersion="[47,)"
-issueTrackerURL="https://github.com/DynamicTreesTeam/DynamicTrees/issues"
+issueTrackerURL="https://github.com/Groupix05/DynamicTrees-Inventory-Pets/issues"
 
 [[mods]]
 modId="dt_inventorypets"
 version="${file.jarVersion}"
 displayName="Dynamic Trees for Inventory Pets"
-displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamictrees"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-inventory-pets"
 logoFile="logo.png"
 credits=""
 authors="WenXin2"
